@@ -1,0 +1,5 @@
+MI INVENTARIO - cómo publicar
+1. Sube index.html, style.css y app.js JUNTOS a la misma carpeta de tu hosting (Netlify, Vercel, GitHub Pages, etc.).
+2. Abre app.js y en la primera sección completa GOOGLE_CLIENT_ID con tu ID de cliente de Google Cloud (opcional).
+3. En app.js, dentro de LEGAL, reemplaza [TU NOMBRE O EMPRESA], [TU CORREO] y [TU PAÍS]. Pide a un abogado que revise los textos.
+Para probar en tu PC: doble clic en index.html.
